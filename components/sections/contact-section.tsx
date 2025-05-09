@@ -53,7 +53,7 @@ export default function ContactSection() {
                   className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors"
                 >
                   <Mail className="w-5 h-5" />
-                  <span>rezezi.axcel@example.com</span>
+                  <span>axcelrezezi@gmail.com</span>
                 </a>
               </div>
               
